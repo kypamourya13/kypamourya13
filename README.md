@@ -1,54 +1,42 @@
-<!-- Header Section -->
+![image](https://github.com/kypamourya27/kypamourya27/blob/main/assets/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mourya Sai Charan Reddy Kypa </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/kypamourya27/" target="_blank" rel="noreferrer">I'm</a> a Graduate Student at Texas Tech University and a passionate DevOps Engineer from United States, with 2.5+ years of experience on various Cloud and DevOps tools.</font></h3>
+<h3 align="left"><font face="Arial"><a href="https://www.linkedin.com/in/kypamourya27/" target="_blank" rel="noreferrer">I'm</a> a Graduate Student at Texas Tech University and a passionate DevOps Engineer from United States, with 3.5+ years of experience on various DevOps tools. I mostly work with Python, and Cloud based technologies.🚀 </font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
-<!-- Cloud Section -->
-<h4><font size="+1" face="Tahoma">Cloud:</font></h4>
-<p align="left">
-<a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
-</a>
-<!-- Add more cloud-related tools here -->
-</p>
-
-<!-- Scripting Section -->
-<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
-</a>
-<a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
-<img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="100" height="100"/>
-</a>
-</p>
-
-<!-- Technologies Section -->
-<h4><font size="+1" face="Tahoma">Technologies:</font></h4>
-<p align="left">
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
-</a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="terraform" width="40" height="40"/>
-</a>
-
-- I work on DevOps, Microservices, containers, and everything around it.
+- 👨‍💻 I work on DevOps, Microservices, Containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
+
+<br>
+</br>
+
+## :zap: Languages and Tools:
+<p align="center"> 
+<a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" ><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40" height="40" /> </a>
+<a href="https://www.ansible.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ansible/ansible-plain.svg" width="40" height="40" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ly2ckx8fxckeku743n26h2afd81xlke461hl548o&rid=giphy.gif&ct=g" width="40" height="40" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rutikdevops/logos/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="60" /> </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="70" height="60" /> </a>
+<a href="https://www.chef.io/" target="_blank" rel="noreferrer"><img src="https://intellyx.com/wp-content/uploads/2019/04/chef-software_facebook-share_min-560x416.png" width="60" height="40" /></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/maven-apache3537.jpg" width="70" height="40" /></a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="70" height="50" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="70" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="50"/></a>
+<a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://www.cosmos.esa.int/documents/514868/515269/header-nexus.png/4ed5a00e-411c-9f29-8670-4ab854230057?t=1509370341696" width="70" height="40" /></a>
+</p>
+<br >
+<br />
+
+
+
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
