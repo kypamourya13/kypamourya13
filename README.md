@@ -3,8 +3,8 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mourya Sai Charan Reddy Kypa </font></h1>
 <h3 align="left"><font face="Arial"><a href="https://www.linkedin.com/in/kypamourya27/" target="_blank" rel="noreferrer">I'm</a> a Graduate Student at Texas Tech University and a passionate DevOps Engineer from United States, with 3.5+ years of experience on various DevOps tools. I mostly work with Python, and Cloud based technologies.🚀 </font></h3>
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<br>
+</br>
 
 - 👨‍💻 I work on DevOps, Microservices, Containers, and everything around it.
 - 👯 I’m looking to collaborate on **Cloud-native Projects**
@@ -32,11 +32,13 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="50"/></a>
 <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://www.cosmos.esa.int/documents/514868/515269/header-nexus.png/4ed5a00e-411c-9f29-8670-4ab854230057?t=1509370341696" width="70" height="40" /></a>
 </p>
-<br >
-<br />
 
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
+<br>
+</br>
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
